@@ -1,1 +1,1 @@
-# tradewarwriting on my local computer
+# tradewar
